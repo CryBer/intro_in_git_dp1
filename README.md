@@ -1,20 +1,25 @@
-# intro_in_git_dp1
+## intro_in_git_dp1
 
 
 
-# komandas
+## komandas
 '''
-git clone repozitorija-URL # nokopē projektu no github lokāli
+git clone repozitorija-URL     # nokopē projektu no github lokāli
 
-git status # Repozotorija status
+git status      # Repozotorija status
 
-git add . # Sagatavot repozotoriju komitam
+git add .      # Sagatavot repozotoriju komitam
 
-git commit -m "Paveiktais darbs" # Versijas izveide
+git commit -m "Paveiktais darbs"    # Versijas izveide
 
-git push origin main # augšupielādēt repozotoriju
+git push origin main     # Augšupielādēt repozotoriju
 
 
 git config user.name "CryBer"
 git config user.email "sunkristap@gmail.com"
+
+
 '''
+
+##  statuss
+Viss ir baigi forši!
